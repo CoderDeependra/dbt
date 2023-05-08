@@ -1,2 +1,2 @@
 # dbt
-GitHub for dbt Fivetran
+GitHub for dbt Fivetran 
